@@ -19,15 +19,15 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# 💫 About Me:
+### 💫 About Me:
 
 🔭 I’m a Front-end focused Full-stack web developer<br>🖇️ I’m looking to collaborate on Mern<br>🌱 I’m currently extending my knowledge in Back-end<br>💬 Ask me about Mern I will be happy to answer<br>📫 How to reach me: muhammadShefain@gmail.com <br>⚡ Fun fact: Imagination is more important than knowledge
 
-## 🌐 Socials:
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MD_SheFain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shefain_18)
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
