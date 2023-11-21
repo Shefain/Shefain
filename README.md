@@ -32,8 +32,8 @@ For me, as a developer, learning new technologies is one of my pastimes.
 --->
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,sass,styledcomponents,tailwind,figma)](https://skillicons.dev)  <br/>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,git,bash)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,redis)](https://skillicons.dev)  <br/>
+[![My Skills](https://skillicons.dev/icons?i=vite,sass,styledcomponents,tailwind,docker,git,bash,figma)](https://skillicons.dev) <br/>
 
 
 
