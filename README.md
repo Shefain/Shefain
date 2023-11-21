@@ -18,7 +18,7 @@ For me, as a developer, learning new technologies is one of my pastimes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MD_SheFain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shefain_18)
 
 ### ``Things-I-Code-With:``
-
+<!---
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
@@ -30,8 +30,18 @@ For me, as a developer, learning new technologies is one of my pastimes.
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-
 [![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,sass,tailwind,figma)](https://skillicons.dev)  <br/>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,git,bash)](https://skillicons.dev) <br/>
+--->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next)](https://skillicons.dev)  <br/>
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,styledcomponents,figma)](https://skillicons.dev)  <br/>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=docker,git,bash)](https://skillicons.dev)
+
+### ``Learging:``
+[![My Skills](https://skillicons.dev/icons?i=postgres,astro,solidjs,redis,docker)](https://skillicons.dev)
+
 <!---
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="red">
