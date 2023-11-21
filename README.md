@@ -1,18 +1,3 @@
-<!--
-**Shefain/Shefain** is a ✨ _particular_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <a href="https://github.com/soumya0587/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! Myself Muhammad MaHi; A Front-End%20Web%20Developer; Interested In Coding; Curious%20To%20Learn%20New%20Things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
@@ -44,23 +29,10 @@ For me, as a developer, learning new technologies is one of my pastimes.
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-<!---
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Shefain&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shefain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shefain&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Shefain&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
---->
 [![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="red">
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
