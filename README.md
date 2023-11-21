@@ -13,7 +13,8 @@ For me, as a developer, learning new technologies is one of my pastimes.
 
 ### ``Socials:``
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MD_SheFain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shefain_18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MD_SheFain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shefain_18)<br/>
+[![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in)
 
 ### ``Things-I-Use-Most:``
 <!---
@@ -28,7 +29,6 @@ For me, as a developer, learning new technologies is one of my pastimes.
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in)
 --->
 
 
