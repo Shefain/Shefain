@@ -6,9 +6,9 @@
 
 ### ``About-Me:``
 ````javascript
-I am MaHi. Learning to code has always been my dream & I am putting in effort and determination to pursue my dream.
-As a front-end-focused full-stack developer. I have worked with multiple technologies to build websites and web applications.
-For me, as a developer, learning new technologies is one of my pastimes.
+Greetings, I'm MaHi. Learning to code has always been my dream & I am putting in effort and determination
+to pursue my dream. As a front-end-focused full-stack developer. I have worked with multiple technologies to build websites and
+web applications. For me, as a developer, learning new technologies is one of my pastimes.
 [Self-Taught]
 ````
 
