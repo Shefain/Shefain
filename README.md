@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/soumya0587/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! Myself Muhammad MaHi; A Front-End%20Web%20Developer; Interested In Coding; Curious%20To%20Learn%20New%20Things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetBrains+Mono&duration=2500&pause=600&center=true&random=false&width=435&lines=It's+Muhammad+MaHi;A+Front-End-Focused++;Full-Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 ### ``About-Me:``
@@ -17,7 +15,7 @@ For me, as a developer, learning new technologies is one of my pastimes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-mahi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MD_SheFain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shefain_18)
 
-### ``Things-I-Code-With:``
+### ``Things-I-Use-Most:``
 <!---
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
@@ -31,13 +29,13 @@ For me, as a developer, learning new technologies is one of my pastimes.
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in)
+--->
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,sass,tailwind,figma)](https://skillicons.dev)  <br/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker,git,bash)](https://skillicons.dev) <br/>
---->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next)](https://skillicons.dev)  <br/>
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,styledcomponents,figma)](https://skillicons.dev)  <br/>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,redis)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=docker,git,bash)](https://skillicons.dev)
+
+
 
 ### ``Learging:``
 [![My Skills](https://skillicons.dev/icons?i=postgres,astro,solidjs,redis,docker)](https://skillicons.dev)
