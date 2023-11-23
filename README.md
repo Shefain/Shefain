@@ -36,7 +36,7 @@ For me, as a developer, learning new technologies is one of my pastimes.
 
 
 
-### ``Learging:``
+### ``Learning:``
 [![My Skills](https://skillicons.dev/icons?i=postgres,astro,solidjs,redis,docker)](https://skillicons.dev)<br/>
 
 <!---
