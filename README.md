@@ -40,7 +40,7 @@ For me, as a developer, learning new technologies is one of my pastimes.
 [![My Skills](https://skillicons.dev/icons?i=postgres,astro,solidjs,redis,docker)](https://skillicons.dev)<br/>
 
 <!---
-<p align="center">
+<p    align="center"  >
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="red">
 </p>
 --->
