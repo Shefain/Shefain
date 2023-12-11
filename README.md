@@ -37,7 +37,7 @@ For me, as a developer, learning new technologies is one of my pastimes.
 
 
 ### ``Learning:``
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,docker)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=python,postgres)](https://skillicons.dev)<br/>
 
 <!---
 <p align="center">
