@@ -1,4 +1,4 @@
-<p align="center">
+<!---<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=jetBrains+Mono&duration=2500&pause=600&center=true&random=false&width=435&lines=It's+Muhammad+MaHi;A+Front-End-Focused++;Full-Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
@@ -46,4 +46,4 @@ For me, as a developer, learning new technologies is one of my pastimes.
 --->
 
 
-[![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in)--->
