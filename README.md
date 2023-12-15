@@ -28,7 +28,7 @@ For me, as a developer, learning new technologies is one of my pastimes.
 [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
---->
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,redis)](https://skillicons.dev)  <br/><hr/>
@@ -43,7 +43,8 @@ For me, as a developer, learning new technologies is one of my pastimes.
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="red">
 </p>
+
+
+
+[![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in) 
 --->
-
-
-[![](https://visitcount.itsvg.in/api?id=Shefain&icon=9&color=1)](https://visitcount.itsvg.in)--->
