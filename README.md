@@ -8,7 +8,7 @@
 
   <!--- Rest of your badges or content --->
 
-  
+  <hr/>
   <h3>Things I Use Most</h3>
 
   <!--- Skillicons for skills --->
@@ -19,7 +19,7 @@
   <a href="https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,materialui,docker,bash,figma">
     <img src="https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,materialui,docker,bash,figma" alt="My Skills" />
   </a>
-
+  <hr/>
   <h3>Learning</h3>
   <a href="https://skillicons.dev/icons?i=python,postgres">
     <img src="https://skillicons.dev/icons?i=python,postgres" alt="My Skills" />
