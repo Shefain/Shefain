@@ -13,7 +13,7 @@
 
   <!--- Skillicons for skills --->
   <a href="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,redis">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,redis" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,express,mongodb,redis" alt="My Skills" />
   </a> 
   <br/>
   <a href="https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,materialui,docker,bash,figma">
