@@ -12,12 +12,18 @@
   <h3>Things I Use Most</h3>
 
   <!--- Skillicons for skills --->
-  <a href="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,redis">
-    <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,express,mongodb,redis" alt="My Skills" />
+  <a href="https://skillicons.dev/icons?i=js,ts,react,next">
+    <img src="https://skillicons.dev/icons?i=ts,react,next" alt="My Skills" />
+  </a>
+<br/> <a href="https://skillicons.dev/icons?i=sass,styledcomponents,tailwind">
+    <img src="https://skillicons.dev/icons?i=sass,styledcomponents,tailwind" alt="My Skills" />
+  </a>
+  <br/><a href="https://skillicons.dev/icons?i=nodejs,express,mongodb">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="My Skills" />
   </a> 
   <br/>
-  <a href="https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,materialui,docker,bash,figma">
-    <img src="https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,materialui,docker,bash,figma" alt="My Skills" />
+<a href="https://skillicons.dev/icons?i=sass,styledcomponents,tailwind,docker,bash,figma">
+    <img src="https://skillicons.dev/icons?i=docker,bash,figma" alt="My Skills" />
   </a>
   <hr/>
   <h3>Learning</h3>
