@@ -24,5 +24,6 @@ I'm ```muhammad-MaHi```, a Full Stack Web Application Developer from Bangladesh.
     <img src="https://skillicons.dev/icons?i=python,postgres" alt="My Skills" />
   </a> 
   <br/> <br/>
+
   
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+ [![](https://visitcount.itsvg.in/api?id=Shefain&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
