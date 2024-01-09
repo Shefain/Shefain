@@ -11,7 +11,7 @@ I'm ``` muhammad-MaHi ```, a Full Stack Web Application Developer from Banglades
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadShefain@gmail.com)
 
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:hearts: &emsp; "What? Why? How?" is the most commonly used approach to learning. <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 :e-mail: &emsp;How to reach me: muhammadShefain@gmail.com<br/>
 #### Things I code with
