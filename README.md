@@ -20,7 +20,7 @@ I'm ``` muhammad-MaHi ```, a Full Stack Web Application Developer from Banglades
 
   <h4>Currently Learning</h4>
   <a href="https://skillicons.dev/icons?i=go,graphql,postgres">
-    <img src="https://skillicons.dev/icons?i=go,graphql,postgres" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=go,nestjs,graphql,postgres" alt="My Skills" />
   </a> 
   <br/> <br/>
 
